@@ -3,7 +3,7 @@ Author : Rhuta Joshi
 Language : Python 3
 Required Library : math
 Pre-requisites : pre.data and post.data file in same directory as script
-Input : Pixel coordinates for 2 points (comma separated coordinates for each) within range [0,255] along each axis
+Input : Pixel coordinates for 2 points (comma separated coordinates for each) within range [0,511] along each axis
 
 '''
 
